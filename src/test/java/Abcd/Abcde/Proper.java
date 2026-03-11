@@ -6,7 +6,6 @@ public class Proper {
 		System.out.println("pavan kumar");
 		System.out.println("sai");
 		System.out.println("MYLIPILLI");
-
 	}
 
 }
